@@ -3,7 +3,7 @@ Newspaper bias and website
 This is BlindNews, an AI driven project that accurately updates current events and displays a range of articles on the topic from biased left to right or centrist.
 
 Steps:
-1. Create a bot to scrape for articles from many different news sources
+1. Create a bot to scrape for articles from many different news sources (probably mediastack)
 2. Website to display these articles
 3. Find a way to catergorize articles by current events
 4. Model to categorize bias
